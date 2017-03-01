@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63873335636",
+    "project_id": "restaurant-160208"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63873335636:android:dfbe521ba503e756",
+        "android_client_info": {
+          "package_name": "com.retaurentmenu.com.restaurentmenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63873335636-7phj5srcper18tp6qgvb5lpm5pq4sqf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retaurentmenu.com.restaurentmenu",
+            "certificate_hash": "9b3d2cbdc1ffb51a90c2a7cec2ce1ebfb543327d"
+          }
+        },
+        {
+          "client_id": "63873335636-otj6r8qa0k3eoq613dvmbhe6r5dcb7l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChHs9ZCGDM4KUF9_ac3XgoedmXy0JCzfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
